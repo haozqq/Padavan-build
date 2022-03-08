@@ -1,4 +1,4 @@
-#修改TNAME: MI-MINI 中的MSG1500为你需要编译的型号，注意名称要与configs/templates/目录下的名字相同
+#修改TNAME: MI-MINI 中的MI-MINI为你需要编译的型号，注意名称要与configs/templates/目录下的名字相同
 name: Build Padavan
 
 on: 
